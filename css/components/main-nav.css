@@ -1,0 +1,17 @@
+.main-nav{
+    display: inline-flex;
+    list-style-type: none;
+}
+.main-nav .link{
+    text-decoration: none;
+}
+.main-nav .link .li{
+    margin-left: 15px;
+    color: #fff;
+    font-family: var(--font03);
+}
+.main-nav .link .li:hover{
+    color: #000;
+    text-shadow: 1px 1px 2px #fff;
+
+}
