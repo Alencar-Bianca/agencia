@@ -1,0 +1,15 @@
+.main-bnt{
+    background-color: var(--color03);
+    display: inline-block;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 5px;
+    margin-top: 15px;
+    padding: 0 5px;
+    text-align: center;
+}
+.main-bnt .link{
+    color: #fff;
+    font-family: var(--font03);
+    cursor: pointer;
+}

@@ -1,0 +1,22 @@
+.main-service{
+    text-align: center;
+    padding: 40px;
+    background-color: #f8c291;
+}
+.serviceimg{
+    width: 100%;
+    max-width: 100%;
+}
+.boxservice{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.serviceleft{
+    float: left;
+    width: 50%;
+}
+.serviceright{
+    float: right;
+    width: 50%;
+}

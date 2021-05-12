@@ -12,5 +12,12 @@
 .-flexabout{
     align-items: flex-start;
     padding-top: 70px;
-   
+}
+.-flexserice{
+    display: flex;
+    justify-content: space-evenly;
+}
+.-flexaservice{
+    align-items: flex-start;
+    justify-content: space-between;
 }

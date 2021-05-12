@@ -2,7 +2,7 @@
     display: inline-flex;
     list-style-type: none;
 }
-.main-nav .link{
+.link{
     text-decoration: none;
 }
 .main-nav .link .li{
