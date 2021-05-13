@@ -1,15 +1,19 @@
 .main-bnt{
     background-color: var(--color03);
-    display: inline-block;
-    height: 30px;
-    line-height: 30px;
+    display: block;
+    line-height: 25px;
     border-radius: 5px;
     margin-top: 15px;
-    padding: 0 5px;
+    padding: 10px;
     text-align: center;
+    max-width: 170px;
+   
 }
 .main-bnt .link{
     color: #fff;
     font-family: var(--font03);
     cursor: pointer;
+}
+.-projectbnt{
+    margin: auto;
 }

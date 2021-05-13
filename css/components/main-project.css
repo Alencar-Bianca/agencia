@@ -1,0 +1,13 @@
+.main-project{
+    background-image: url('../../img/banner_meio.svg');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    min-height: 200px;
+    padding: 20px;
+    text-align: center;
+}
+.-marginbottom{
+    display: block;
+    margin-bottom: 15px;
+}
