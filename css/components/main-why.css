@@ -1,0 +1,12 @@
+.main-why{
+    padding: 40px;
+}
+.textcenter{
+    text-align: center;
+    display: block;
+}
+.boxsingle{
+    box-shadow: 0px 20px 40px #2426721c;
+    padding: 20px 2%;
+    margin-left: 20px;
+}
