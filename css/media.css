@@ -1,0 +1,58 @@
+@media screen and (max-width: 768px){
+    .navdesktop{
+        display: none;
+    }
+    .main-container.-flex {
+        display: block;
+    }
+    .aboutimg{
+        max-width: 90%;
+        margin-top: 25px;
+    }
+    .main-service .main-container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .serviceleft{
+        float: none;
+        width: 100%;
+    }
+    .serviceright{
+        float: none;
+        width: 100%;
+    }
+    .serviceright .main-p {
+        width: 100%;
+    }
+   .main-why .main-container .-flex{
+        flex-wrap: wrap;
+    }
+    .boxsingle{
+        padding: 20px 8%;
+    }
+}
+@media screen and (max-width: 370px){
+    .main-contributors .main-title{
+        font-size: 1.8em;
+    }
+}
+@media screen and (max-width: 290px){
+    .divabout .main-title {
+        font-size: 30px;
+    }
+    .main-header .main-title {
+        font-size: 30px;
+    }
+    .boxsingle{
+        padding: 20px 1%;
+    }
+    .main-contributors .main-title{
+        font-size: 1.4em;
+    }
+}
+@media screen and (max-width: 190px){
+    .divabout .main-title {
+        font-size: 20px;
+    }
+}
