@@ -1,6 +1,9 @@
 @media screen and (max-width: 768px){
-    .navdesktop{
+    .navdesktop,.logo{
         display: none;
+    }
+    .navmobile{
+        display: block;
     }
     .main-container.-flex {
         display: block;
@@ -30,6 +33,10 @@
     }
     .boxsingle{
         padding: 20px 8%;
+    }
+    .contributorsfex{
+        justify-content: center;
+     
     }
 }
 @media screen and (max-width: 370px){

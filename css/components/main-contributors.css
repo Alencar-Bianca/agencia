@@ -1,0 +1,14 @@
+.main-contributors{
+    padding: 40px;
+    background-color: #f7f5f5;
+    text-align: center;
+}
+.contributorsfex{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.contributorsimg{
+    width: 100%;
+    max-width: 190px;
+}
